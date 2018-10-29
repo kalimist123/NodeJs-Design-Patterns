@@ -1,1 +1,1 @@
-# Node.js Design Patterns, Second Edition
+# Node.js Design Patterns
